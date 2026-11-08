@@ -1,0 +1,41 @@
+skill_id,skill_name,category,validity_months
+SKL-000001,Python,Technical,12
+SKL-000002,Java,Data,12
+SKL-000003,SQL,Cloud,18
+SKL-000004,React,Soft Skill,12
+SKL-000005,AWS,Technical,24
+SKL-000006,Docker,Data,12
+SKL-000007,Kubernetes,Cloud,36
+SKL-000008,Machine Learning,Soft Skill,18
+SKL-000009,Statistics,Technical,36
+SKL-000010,Pandas,Data,12
+SKL-000011,FastAPI,Cloud,18
+SKL-000012,Testing,Soft Skill,18
+SKL-000013,Communication,Technical,12
+SKL-000014,Agile,Data,24
+SKL-000015,Data Visualization,Cloud,24
+SKL-000016,Spark,Soft Skill,18
+SKL-000017,Specialized Skill 017,Technical,12
+SKL-000018,Specialized Skill 018,Data,12
+SKL-000019,Specialized Skill 019,Cloud,18
+SKL-000020,Specialized Skill 020,Soft Skill,18
+SKL-000021,Specialized Skill 021,Technical,24
+SKL-000022,Specialized Skill 022,Data,36
+SKL-000023,Specialized Skill 023,Cloud,24
+SKL-000024,Specialized Skill 024,Soft Skill,12
+SKL-000025,Specialized Skill 025,Technical,18
+SKL-000026,Specialized Skill 026,Data,18
+SKL-000027,Specialized Skill 027,Cloud,36
+SKL-000028,Specialized Skill 028,Soft Skill,24
+SKL-000029,Specialized Skill 029,Technical,24
+SKL-000030,Specialized Skill 030,Data,36
+SKL-000031,Specialized Skill 031,Cloud,24
+SKL-000032,Specialized Skill 032,Soft Skill,24
+SKL-000033,Specialized Skill 033,Technical,36
+SKL-000034,Specialized Skill 034,Data,18
+SKL-000035,Specialized Skill 035,Cloud,18
+SKL-000036,Specialized Skill 036,Soft Skill,36
+SKL-000037,Specialized Skill 037,Technical,12
+SKL-000038,Specialized Skill 038,Data,12
+SKL-000039,Specialized Skill 039,Cloud,36
+SKL-000040,Specialized Skill 040,Soft Skill,12

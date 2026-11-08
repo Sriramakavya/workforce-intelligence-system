@@ -1,0 +1,43 @@
+{
+  "seed": 20261022,
+  "scale": "starter",
+  "employees": 250,
+  "projects": 30,
+  "skills": 40,
+  "demand_rows": 1560,
+  "project_role_forecast_rows": 456,
+  "employee_periods": 13000,
+  "overallocated_employee_periods": 68,
+  "high_utilization_employee_periods": 35,
+  "skill_gap_rows": 1011,
+  "detected_anomaly_rows": 1029,
+  "validation_passed": 42,
+  "validation_total": 42,
+  "forecast_metrics": {
+    "mae": 5.8642,
+    "rmse": 7.4296,
+    "naive_mae": 7.7087,
+    "holdout_weeks": 8
+  },
+  "generator_manifest": {
+    "seed": 20261022,
+    "scale": "starter",
+    "generated_at_fixed_reference_date": "2026-11-08",
+    "generated_tables": {
+      "Employee": 250,
+      "Role": 8,
+      "Skill": 40,
+      "EmployeeSkill": 1500,
+      "Project": 30,
+      "DemandPlan": 1560,
+      "Allocation": 350,
+      "Availability": 13000,
+      "Training": 40,
+      "GapAnalysis": 1560,
+      "AllocationEvent": 350
+    },
+    "ground_truth_rows": 4,
+    "period_coverage": "2026W01-2026W52",
+    "provenance": "Fully synthetic data; no external personal or company data used"
+  }
+}

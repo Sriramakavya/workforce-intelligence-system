@@ -1,0 +1,9 @@
+role_id,role_name,department,active
+ROLE-0001,Software Engineer,Engineering,True
+ROLE-0002,Data Scientist,Data,True
+ROLE-0003,Data Engineer,Operations,True
+ROLE-0004,QA Engineer,Business,True
+ROLE-0005,DevOps Engineer,Engineering,True
+ROLE-0006,Business Analyst,Data,True
+ROLE-0007,Product Manager,Operations,True
+ROLE-0008,ML Engineer,Business,True

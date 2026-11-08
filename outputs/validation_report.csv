@@ -1,0 +1,43 @@
+check,passed,detail
+employee primary key unique and non-null,True,250 rows
+role primary key unique and non-null,True,8 rows
+skill primary key unique and non-null,True,40 rows
+employeeskill primary key unique and non-null,True,1500 rows
+project primary key unique and non-null,True,30 rows
+demandplan primary key unique and non-null,True,1560 rows
+allocation primary key unique and non-null,True,350 rows
+availability primary key unique and non-null,True,13000 rows
+training primary key unique and non-null,True,40 rows
+gapanalysis primary key unique and non-null,True,1560 rows
+allocationevent primary key unique and non-null,True,350 rows
+employee.role_id foreign key,True,0 invalid references
+employeeskill.employee_id foreign key,True,0 invalid references
+employeeskill.skill_id foreign key,True,0 invalid references
+demandplan.project_id foreign key,True,0 invalid references
+demandplan.role_id foreign key,True,0 invalid references
+demandplan.skill_id foreign key,True,0 invalid references
+allocation.employee_id foreign key,True,0 invalid references
+allocation.project_id foreign key,True,0 invalid references
+availability.employee_id foreign key,True,0 invalid references
+training.skill_id foreign key,True,0 invalid references
+gapanalysis.demand_id foreign key,True,0 invalid references
+gapanalysis.project_id foreign key,True,0 invalid references
+gapanalysis.role_id foreign key,True,0 invalid references
+gapanalysis.skill_id foreign key,True,0 invalid references
+allocationevent.allocation_id foreign key,True,0 invalid references
+employee.fte numeric non-negative,True,range checked
+availability.fte_capacity numeric non-negative,True,range checked
+availability.leave_fte numeric non-negative,True,range checked
+allocation.allocated_fte numeric non-negative,True,range checked
+demandplan.required_fte numeric non-negative,True,range checked
+training.duration_weeks numeric non-negative,True,range checked
+training.cost_usd numeric non-negative,True,range checked
+employee skill proficiency 1-5,True,scale 1 to 5
+employee skill expiry dates valid,True,expiry derived from skill validity months
+employee-skill pair unique,True,bridge uniqueness
+availability capacity reconciles to contractual FTE,True,fte_capacity + leave_fte = employee FTE
+availability employee-period unique,True,one row per employee-week
+project dates ordered,True,start_date <= end_date
+demand duplicate business keys are labelled,True,2 duplicate rows; ground-truth label present=True
+demand period values valid,True,2026W01 through 2026W52
+allocation period values valid,True,2026W01 through 2026W52

@@ -1,0 +1,23 @@
+{
+  "data\\raw\\allocation.csv": "ea050bf1557372913cb9aaec1db61c69fa2090687c665524b2d823597f0b1fbe",
+  "data\\raw\\allocationevent.csv": "c349d7319ca3b4bcf8736995adf356c32bbe0e934d076624e7de46e2fc2dfa3e",
+  "data\\raw\\availability.csv": "c45efa6557b82bb010b0daba14585a8653550510b1955e9c1902461a4b3ec431",
+  "data\\raw\\demandplan.csv": "5c098fb96cb5e306ddeb6c2c3955e04b657900819cdb5f7b73f13dc3af63f4a3",
+  "data\\raw\\employee.csv": "fbc4885927ba2678d96b4047eac7e7d3b70f62dc30117229caf0ed22acd4447e",
+  "data\\raw\\employeeskill.csv": "bfc97164946031749a5e092e2c2c539249e47311cf7e5cecd7f31cfa6877a05b",
+  "data\\raw\\gapanalysis.csv": "3d7aed824d0ef441a4add8c228e623a279f0b6b8593490d10f68dc63c9a9b957",
+  "data\\raw\\project.csv": "cd934c1f8dcf364088a6ce7b227acdfee84bb0d06a0090a2f376417daa92b4c7",
+  "data\\raw\\role.csv": "f0a4fa2b5492d8b610e043ea43cc9d9861a45391d7098026a3ee34cf93719361",
+  "data\\raw\\skill.csv": "069321297102f99894b9a3ca9a3b5858230d59f272ce6210a8aefc18442e9316",
+  "data\\raw\\training.csv": "a9b5e0e8028a6d057ef81b9522f5c4a6cf946cb39a6546e1d7f5f048bc46d3ad",
+  "outputs\\demand_forecast.csv": "261d1c2a70c020499f05cca9ebd9fad2ee31cf530c8d9ebe361b442880dc4760",
+  "outputs\\detected_anomalies.csv": "4b1f5de7c82e5b7229944f7ab8b96496b207537482005a05a85a204e36b08272",
+  "outputs\\forecast_metrics.json": "db2608873b5c1e089f3dc774e7ce6ae3f495a33fc4454a48b803e0c8091d91a9",
+  "outputs\\recommendations.csv": "9fa193b00d847dfcea648c10ba24bbb5cdbbb9a6fe4e533275328b0a2fa14d17",
+  "outputs\\reproducibility_report.json": "b068cbb8ea1a1cff2254efebaa7ec2577cfcc2e7c4699343dcc638b6f27bb35a",
+  "outputs\\run_summary.json": "ddc442b1f030c6b9584badd7a870d96c934ee0f8c9c5995fde9b7cd97a575101",
+  "outputs\\segmented_demand_forecast.csv": "20ec93f588c78a85cf753fb4ecc52ffd69b168313a321db41633a22c7a83fd1f",
+  "outputs\\skill_gap_report.csv": "0054739fee30e49c84b6458131f9b0bf92e38b02b9584e9ec869d7ef156518e6",
+  "outputs\\utilization_report.csv": "f0214c0703e93a69fc7c1cc3ed7ae4b5f1bd47095f122cd9ee73e5dbfc8a6ac1",
+  "outputs\\validation_report.csv": "c0152d2be0281e8da4c5bacc54961f08b3e922e8b7658989f83ae1878d65c3a5"
+}

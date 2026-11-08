@@ -1,0 +1,5 @@
+record_type,record_id,issue_type,expected_decision
+Allocation,ALLOC-2026-000001,ALLOCATION_EXCEEDS_AVAILABILITY,Flag allocation for manager review
+EmployeeSkill,ES-000001,STALE_SKILL_TREATED_CURRENT,Require re-verification before matching
+DemandPlan,DEM-PRJ-2026-000001-2026W02,DEMAND_DOUBLE_COUNTED,Detect duplicate demand key and exclude duplicate
+Allocation,ALLOC-2026-000002,OVERLAPPING_PROJECT_ALLOCATION,Flag overlapping employee assignments

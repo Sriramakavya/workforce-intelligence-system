@@ -1,0 +1,31 @@
+project_id,project_name,start_date,end_date,project_status,priority
+PRJ-2026-000001,Customer Platform 1,2026-09-22,2027-05-30,Active,High
+PRJ-2026-000002,Analytics Modernization 2,2026-08-20,2027-11-27,Active,High
+PRJ-2026-000003,Cloud Migration 3,2026-10-06,2027-04-04,Active,High
+PRJ-2026-000004,Fraud Detection 4,2026-08-18,2027-01-16,Active,Medium
+PRJ-2026-000005,Mobile Application 5,2026-10-04,2027-04-09,Active,Low
+PRJ-2026-000006,Data Warehouse 6,2026-03-30,2027-02-04,Active,Low
+PRJ-2026-000007,AI Support Assistant 7,2026-01-11,2027-02-10,Active,High
+PRJ-2026-000008,Payments Upgrade 8,2026-08-28,2027-10-20,Active,Medium
+PRJ-2026-000009,Customer Platform 9,2026-09-23,2027-05-24,Active,Medium
+PRJ-2026-000010,Analytics Modernization 10,2026-02-18,2027-03-26,Active,High
+PRJ-2026-000011,Cloud Migration 11,2026-01-08,2026-05-24,Active,Medium
+PRJ-2026-000012,Fraud Detection 12,2026-04-22,2027-01-12,Active,Low
+PRJ-2026-000013,Mobile Application 13,2026-05-10,2027-08-14,Active,Medium
+PRJ-2026-000014,Data Warehouse 14,2026-08-07,2027-10-14,Active,Medium
+PRJ-2026-000015,AI Support Assistant 15,2026-02-14,2026-07-23,Active,High
+PRJ-2026-000016,Payments Upgrade 16,2026-04-15,2026-09-19,Active,High
+PRJ-2026-000017,Customer Platform 17,2026-05-05,2026-12-31,Active,Medium
+PRJ-2026-000018,Analytics Modernization 18,2026-06-13,2026-11-22,Active,Medium
+PRJ-2026-000019,Cloud Migration 19,2026-02-15,2027-04-30,Active,Medium
+PRJ-2026-000020,Fraud Detection 20,2026-09-26,2027-11-23,Active,Medium
+PRJ-2026-000021,Mobile Application 21,2026-02-01,2026-07-27,Active,High
+PRJ-2026-000022,Data Warehouse 22,2026-03-01,2027-06-16,Active,Medium
+PRJ-2026-000023,AI Support Assistant 23,2026-10-22,2028-02-28,Active,Medium
+PRJ-2026-000024,Payments Upgrade 24,2026-05-26,2027-07-20,Active,Medium
+PRJ-2026-000025,Customer Platform 25,2026-06-27,2026-12-30,Active,High
+PRJ-2026-000026,Analytics Modernization 26,2026-02-27,2027-04-03,Active,High
+PRJ-2026-000027,Cloud Migration 27,2026-04-25,2026-09-01,Active,Medium
+PRJ-2026-000028,Fraud Detection 28,2026-08-16,2027-12-22,Active,High
+PRJ-2026-000029,Mobile Application 29,2026-08-04,2027-03-18,Active,Low
+PRJ-2026-000030,Data Warehouse 30,2026-02-02,2026-10-16,Active,High

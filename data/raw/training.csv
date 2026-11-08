@@ -1,0 +1,41 @@
+training_id,skill_id,training_name,duration_weeks,cost_usd,status
+TRN-000001,SKL-000001,Python Upskilling,8,1929,Available
+TRN-000002,SKL-000002,Java Upskilling,4,996,Available
+TRN-000003,SKL-000003,SQL Upskilling,5,585,Available
+TRN-000004,SKL-000004,React Upskilling,7,1153,Available
+TRN-000005,SKL-000005,AWS Upskilling,3,1098,Available
+TRN-000006,SKL-000006,Docker Upskilling,8,1101,Available
+TRN-000007,SKL-000007,Kubernetes Upskilling,4,531,Available
+TRN-000008,SKL-000008,Machine Learning Upskilling,5,642,Available
+TRN-000009,SKL-000009,Statistics Upskilling,3,245,Available
+TRN-000010,SKL-000010,Pandas Upskilling,2,1702,Available
+TRN-000011,SKL-000011,FastAPI Upskilling,5,1501,Available
+TRN-000012,SKL-000012,Testing Upskilling,2,537,Available
+TRN-000013,SKL-000013,Communication Upskilling,7,1738,Available
+TRN-000014,SKL-000014,Agile Upskilling,7,1674,Available
+TRN-000015,SKL-000015,Data Visualization Upskilling,2,947,Available
+TRN-000016,SKL-000016,Spark Upskilling,7,1775,Available
+TRN-000017,SKL-000017,Specialized Skill 017 Upskilling,2,1223,Available
+TRN-000018,SKL-000018,Specialized Skill 018 Upskilling,4,743,Available
+TRN-000019,SKL-000019,Specialized Skill 019 Upskilling,7,409,Available
+TRN-000020,SKL-000020,Specialized Skill 020 Upskilling,8,1858,Available
+TRN-000021,SKL-000021,Specialized Skill 021 Upskilling,8,472,Available
+TRN-000022,SKL-000022,Specialized Skill 022 Upskilling,5,465,Available
+TRN-000023,SKL-000023,Specialized Skill 023 Upskilling,6,1151,Available
+TRN-000024,SKL-000024,Specialized Skill 024 Upskilling,6,1037,Available
+TRN-000025,SKL-000025,Specialized Skill 025 Upskilling,3,1800,Available
+TRN-000026,SKL-000026,Specialized Skill 026 Upskilling,7,310,Available
+TRN-000027,SKL-000027,Specialized Skill 027 Upskilling,3,601,Available
+TRN-000028,SKL-000028,Specialized Skill 028 Upskilling,8,1778,Available
+TRN-000029,SKL-000029,Specialized Skill 029 Upskilling,2,973,Available
+TRN-000030,SKL-000030,Specialized Skill 030 Upskilling,4,203,Available
+TRN-000031,SKL-000031,Specialized Skill 031 Upskilling,3,583,Available
+TRN-000032,SKL-000032,Specialized Skill 032 Upskilling,5,1619,Available
+TRN-000033,SKL-000033,Specialized Skill 033 Upskilling,4,1722,Available
+TRN-000034,SKL-000034,Specialized Skill 034 Upskilling,5,534,Available
+TRN-000035,SKL-000035,Specialized Skill 035 Upskilling,4,1182,Available
+TRN-000036,SKL-000036,Specialized Skill 036 Upskilling,2,1164,Available
+TRN-000037,SKL-000037,Specialized Skill 037 Upskilling,8,623,Available
+TRN-000038,SKL-000038,Specialized Skill 038 Upskilling,5,1501,Available
+TRN-000039,SKL-000039,Specialized Skill 039 Upskilling,2,1659,Available
+TRN-000040,SKL-000040,Specialized Skill 040 Upskilling,7,1997,Available

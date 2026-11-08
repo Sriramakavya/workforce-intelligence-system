@@ -1,0 +1,21 @@
+{
+  "scale": "starter",
+  "seed": 20261022,
+  "row_counts_match": true,
+  "csv_checksums_match": true,
+  "ground_truth_checksum_match": true,
+  "row_counts": {
+    "Employee": 250,
+    "Role": 8,
+    "Skill": 40,
+    "EmployeeSkill": 1500,
+    "Project": 30,
+    "DemandPlan": 1560,
+    "Allocation": 350,
+    "Availability": 13000,
+    "Training": 40,
+    "GapAnalysis": 1560,
+    "AllocationEvent": 350
+  },
+  "all_reproducibility_checks_pass": true
+}
